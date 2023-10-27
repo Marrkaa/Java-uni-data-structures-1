@@ -1,0 +1,11 @@
+Aiva     Aivaraitis 50       200,00 100,00 1,00
+Aiva     Aivaraitis 49       199,00 98,00 3,00
+Aiva     Aivaraitis 48       198,00 96,00 5,00
+Aiva     Aivaraitis 47       197,00 94,00 7,00
+Aiva     Aivaraitis 46       196,00 92,00 9,00
+Aiva     Aivaraitis 45       195,00 90,00 11,00
+Aiva     Aivaraitis 44       194,00 88,00 13,00
+Aiva     Aivaraitis 43       193,00 86,00 15,00
+Dumbe    Domantas 19       200,00 29,50 4,00
+Titas    Titaitis 25       182,60 27,00 5,00
+Jokubas  Mokubaitis 24       194,50 22,40 20,70
